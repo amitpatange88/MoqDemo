@@ -1,5 +1,5 @@
 <h1>Moq</h1><br>
-ntro to Mocking with Moq
+Intro to Mocking with Moq
 It’s easy to overlook the importance of unit testing. Writing tests can be tedious. They must be updated constantly as code is refactored, and when you have a large code base, you may have to write many tests to even come close to testing all cases. Despite this, unit testing is a necessary part of creating clean, working code. One way to make the testing process easier is through the use of mocks.
 
 What is a Mock?
