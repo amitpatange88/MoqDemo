@@ -1,0 +1,5 @@
+C:\E\VS-Programs\MOQDemo\ExternalApps\bin\Debug\ExternalApps.dll
+C:\E\VS-Programs\MOQDemo\ExternalApps\bin\Debug\ExternalApps.pdb
+C:\E\VS-Programs\MOQDemo\ExternalApps\obj\Debug\ExternalApps.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\MOQDemo\ExternalApps\obj\Debug\ExternalApps.dll
+C:\E\VS-Programs\MOQDemo\ExternalApps\obj\Debug\ExternalApps.pdb

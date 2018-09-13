@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOQDemo", "MOQDemo\MOQDemo.csproj", "{3AA2D9E8-25B9-4E0A-A50C-DEBEF2EC467F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApps", "ExternalApps\ExternalApps.csproj", "{D81E24BD-4D0F-4117-8BC3-3405C8313841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApps.UnitTests", "ExternalApps.UnitTests\ExternalApps.UnitTests.csproj", "{D45648AA-9D39-43B3-8CFA-E5268B5A7315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA2D9E8-25B9-4E0A-A50C-DEBEF2EC467F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA2D9E8-25B9-4E0A-A50C-DEBEF2EC467F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA2D9E8-25B9-4E0A-A50C-DEBEF2EC467F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA2D9E8-25B9-4E0A-A50C-DEBEF2EC467F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81E24BD-4D0F-4117-8BC3-3405C8313841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81E24BD-4D0F-4117-8BC3-3405C8313841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81E24BD-4D0F-4117-8BC3-3405C8313841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81E24BD-4D0F-4117-8BC3-3405C8313841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45648AA-9D39-43B3-8CFA-E5268B5A7315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45648AA-9D39-43B3-8CFA-E5268B5A7315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45648AA-9D39-43B3-8CFA-E5268B5A7315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45648AA-9D39-43B3-8CFA-E5268B5A7315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

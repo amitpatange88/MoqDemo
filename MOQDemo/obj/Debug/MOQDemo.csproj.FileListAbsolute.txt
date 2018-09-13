@@ -1,0 +1,8 @@
+C:\E\VS-Programs\MOQDemo\MOQDemo\bin\Debug\MOQDemo.exe.config
+C:\E\VS-Programs\MOQDemo\MOQDemo\bin\Debug\MOQDemo.exe
+C:\E\VS-Programs\MOQDemo\MOQDemo\bin\Debug\MOQDemo.pdb
+C:\E\VS-Programs\MOQDemo\MOQDemo\obj\Debug\MOQDemo.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\MOQDemo\MOQDemo\obj\Debug\MOQDemo.exe
+C:\E\VS-Programs\MOQDemo\MOQDemo\obj\Debug\MOQDemo.pdb
+C:\E\VS-Programs\MOQDemo\MOQDemo\bin\Debug\ExternalApps.dll
+C:\E\VS-Programs\MOQDemo\MOQDemo\bin\Debug\ExternalApps.pdb
