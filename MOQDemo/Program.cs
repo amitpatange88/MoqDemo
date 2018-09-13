@@ -12,7 +12,8 @@ namespace MOQDemo
         static void Main(string[] args)
         {
             Customer c = new Customer();
-            c.AddCustomer();
+            Mail mail = new Mail();
+            c.AddCustomer(mail);
 
             Console.ReadLine();
         }
