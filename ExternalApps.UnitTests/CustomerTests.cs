@@ -18,7 +18,7 @@ namespace ExternalApps.UnitTests
         [TestMethod]
         public void AddCustomer_Always_ReturnsTrue()
         {
-            _MockMail.Setup(x => x.Send("smtp.gmail.com", "amitpatange88@gmail.com", "jasdjasd93003endd=", "amitpatange88@gmail.com", "subject", "body", 25));
+            _MockMail.Setup(x => x.Send("smtp.gmail.com", "from@gmail.com", "jasdjasd93003endd=", "to@gmail.com", "subject", "body", 25));
             Customer c1 = new Customer();
             bool IsInserted = c1.AddCustomer(_MockMail.Object);
 
